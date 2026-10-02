@@ -34,6 +34,8 @@
 <div align="center">
 
 ### 💼 Backend Development
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
@@ -101,6 +103,29 @@
 
 <div align="center">
 
+### 🌸 Perfume Shop E-Commerce App
+[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](https://github.com/Abed-12)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)](https://github.com/Abed-12)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/Abed-12)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Abed-12)
+[![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=flat-square&logo=restful&logoColor=white)](https://github.com/Abed-12)
+
+Full-stack e-commerce application designed with a RESTful API layer, JWT authentication, and RBAC (ADMIN, CUSTOMER).
+
+<div align="left">
+  
+- 📦 Order tracking for registered customers (full history) and guests (order number & email)
+- 🚚 Delivery fees mapped to Jordanian governorates & coupon validation
+- 🔍 Server-side pagination, search, and filtering
+- 🌐 Arabic/English localization
+- 🔔 Real-time push notifications via Firebase Cloud Messaging & SMTP email notifications
+- 🛠️ Schema management with Flyway migrations & frontend state management via Redux Toolkit / RTK Query
+- 🎨 Interactive 3D perfume experience
+
+</div>
+
+---
+
 ### 🏦 FinTech Banking App
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/Abed-12)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Abed-12)
@@ -159,27 +184,6 @@ Professional networking platform for developers with GitHub integration
 - 💬 Post and comment system
 - 🔗 GitHub repository showcase
 - 🎨 Modern, responsive UI
-
-</div>
-
----
-
-### 🔒 Secrets - Authentication App
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/Abed-12)
-[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/Abed-12)
-[![EJS](https://img.shields.io/badge/EJS-8BC34A?style=flat-square&logo=ejs&logoColor=white)](https://github.com/Abed-12)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)](https://github.com/Abed-12)
-[![OAuth2](https://img.shields.io/badge/OAuth2-8A2BE2?style=flat-square&logo=keycloak&logoColor=white)](https://github.com/Abed-12)
-
-
-Secure authentication system with Google OAuth integration
-
-<div align="left">
-  
-- 🔐 User registration & authentication
-- 🌐 Google OAuth login
-- 💾 Secure secret submission & retrieval
-- 🔒 Environment variable security
 
 </div>
 
