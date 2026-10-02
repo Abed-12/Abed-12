@@ -106,7 +106,9 @@
 ### 🌸 Perfume Shop E-Commerce App
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/Abed-12)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Abed-12)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/Abed-12)
 [![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=flat-square&logo=restful&logoColor=white)](https://github.com/Abed-12)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)](https://github.com/Abed-12)
 
 Full-stack e-commerce application designed with a RESTful API layer, JWT authentication, and RBAC (ADMIN, CUSTOMER).
 
@@ -223,6 +225,11 @@ Check out all my repositories on [GitHub](https://github.com/Abed-12) for more p
       <td style="padding:6px;">✅ Microservices</td>
       <td style="padding:6px;">✅ Modern JavaScript (ES6+)</td>
       <td style="padding:6px;">✅ NPM</td>
+    </tr>
+    <tr>
+      <td style="padding:6px;">✅ Ruby & Ruby on Rails</td>
+      <td style="padding:6px;"></td>
+      <td style="padding:6px;"></td>
     </tr>
     <tr>
       <td style="padding:6px;">✅ RESTful API</td>
