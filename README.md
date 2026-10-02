@@ -34,11 +34,11 @@
 <div align="center">
 
 ### 💼 Backend Development
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microservices&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=restful&logoColor=white)
@@ -104,8 +104,6 @@
 <div align="center">
 
 ### 🌸 Perfume Shop E-Commerce App
-[![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](https://github.com/Abed-12)
-[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)](https://github.com/Abed-12)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)](https://github.com/Abed-12)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/Abed-12)
 [![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=flat-square&logo=restful&logoColor=white)](https://github.com/Abed-12)
@@ -120,7 +118,6 @@ Full-stack e-commerce application designed with a RESTful API layer, JWT authent
 - 🌐 Arabic/English localization
 - 🔔 Real-time push notifications via Firebase Cloud Messaging & SMTP email notifications
 - 🛠️ Schema management with Flyway migrations & frontend state management via Redux Toolkit / RTK Query
-- 🎨 Interactive 3D perfume experience
 
 </div>
 
